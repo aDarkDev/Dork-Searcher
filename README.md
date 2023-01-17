@@ -24,6 +24,6 @@ go run main.go
 Options:
 	-d, --dork   <dork>         Search dork
 	-e, --engine <engine>       Search engine (default: Google.com)
-								(engines: Google , Ask , Duck(DuckDuckGo))	
+				    (engines: Google , Ask , Duck(DuckDuckGo))	
 	-s, --save   <true/false>     Save Dork Result in txt file (default: false)
 ```
