@@ -10,7 +10,7 @@ Dork searcher tool for find SQL or ... in Golang
 
 ## Run On Windows
 
-* Watch this video
+* Watch [this video](https://raw.githubusercontent.com/ConfusedCharacter/Dork-Searcher/main/help.mp4)
 
 ## Run On any system with go compiler
 
