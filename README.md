@@ -14,6 +14,10 @@ Dork searcher tool for find SQL or ... in Golang
 
 ## Run On any system with go compiler
 
+```bash
+git clone https://github.com/ConfusedCharacter/Dork-Searcher ; cd Dork-Searcher
+```
+
 ```
 go run main.go
 ```
