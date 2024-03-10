@@ -2,7 +2,7 @@ package main
 
 /*
 * Dork Seacrher Project
-* By https://github.com/ConfusedCharacter/
+* By https://github.com/aDarkDev/
 * 
 */
 
@@ -123,7 +123,7 @@ func handelError(e error) {
 }
 
 func showBanner() {
-	author := "@ConfusedCharacter"
+	author := "@aDarkDev"
 	version := "v1.1"
 	banner := `
 	 ___           _      __                     _               
